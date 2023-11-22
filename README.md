@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CampAndy1995
 - 👀 I’m interested in Web development and Cloud Computing.
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML and CSS at the Tech Academy in Portland, Oregon.
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
 <!---
