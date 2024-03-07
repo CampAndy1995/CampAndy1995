@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CampAndy1995
 - 👀 I’m interested in Web development and Cloud Computing.
-- 🌱 I’m currently learning HTML and CSS at the Tech Academy in Portland, Oregon.
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 🌱 Software Developer Certification obtained March 2024.
+- 📫 How to reach me is via LinkedIn - www.linkedin.com/in/andrew-campbell-49642479
 
 <!---
 CampAndy1995/CampAndy1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
