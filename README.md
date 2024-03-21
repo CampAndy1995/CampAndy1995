@@ -5,7 +5,7 @@ Hey there! 👋 I'm Andrew Campbell, a passionate  Software Developer based in P
 I love SPOOOOOOOOOOOOOOOOOORTS!!, and I'm always eager to learn new things and tackle exciting challenges. In my free time, you can find me At the Gym, A Blazers game, or Traveling!!!!.
 
 ## My Work
-I'm currently working on Mobile Diigtal Adverstising Application. I'm passionate about Cloud Infrastructure, and I enjoy collaborating with others to build innovative solutions. I also LOVE working With AEC applications like AutoCAD, Revit, Bluebeam, and the Autodesk Construction Cloud. 
+I'm currently working on Mobile Digital Adverstising Application. I'm passionate about Cloud Infrastructure, and I enjoy collaborating with others to build innovative solutions. I also LOVE working With AEC applications like AutoCAD, Revit, Bluebeam, and the Autodesk Construction Cloud. 
 
 ## Skills
 - **Programming Languages**: HTML, CSS, JavaScript, Java, C#
